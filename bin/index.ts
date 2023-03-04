@@ -3,6 +3,8 @@ import chalk from "chalk";
 import inquirer from "inquirer";
 import chalkAnimation from "chalk-animation"
 
+import PromptSync from "prompt-sync";
+
 
 
 async function start(){
